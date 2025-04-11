@@ -1,3 +1,4 @@
+// 📦 RootLayout required for Next.js App Router
 export default function RootLayout({
   children,
 }: {
